@@ -17,16 +17,22 @@ Fast healer:: Spiegazione non chiarissima, ma direi che quando vieni curato, rec
 Jack-o-t:: Scusa, qui mi sa che ho fatto confusione tra turn, round e phase… dunque: tu ottieni UN reroll professionale PER MISSIONE in ogni skill (incluso Atletica). Cioè, a parte la tua professione, puoi avere un reroll per una prova nelle altre skill (ma non uno a turno: uno in tutto)
 Jury rigger:: Fa tanto shadowrun, ah gli anni '90…. Puoi operare in un modulo danneggiato o slaggato. Se è slaggato, ogni occupante del modulo prende 1d6 danni e il modulo funziona a -3. Pool: Ingegneria x2 (sempre 6 usi)
 Lucky:: +3 Fortuna, cumulativo
+Lucky:: +3 di Fortuna, cumulabile se lo prendi più volte. Con quella che hai già, andresti a 10
+Missile Expert:: Puoi tentare di lanciare un secondo missile da un modulo usato facendo un Combat check a 14. Se fallisci, il missile esplode nel modulo (come se l’avessero colpito, quindi danni anche ai moduli adiacenti). Pool (cioè quante volte puoi farlo durante una missione): pari alla tua skill Ingegneria x2 (nel tuo caso 2 volte). Mi sembra un’abilità piuttosto rischiosa, magari prendi in considerazione piuttosto Multi-Barrel Expert che permette di sparare 2 volte in multi-barrel con una sola azione, e senza controindicazioni.
+Overloader:: Quando spari col cannone puoi contare anche il power degli scudi o del ponte per calcolare i danni (sono dadi danno in più), però causa un’esplosione nella tua postazione, ti fa 2d6 danno + 1d6 danni allo scafo, e con 4-5-6 prendi 1OOC e il modulo è danneggiato.
 Pack mule:: raddoppia il carry, nient’altro (ora tu porti 20, porteresti 40, se preferisci puoi decidere dopo aver preso gli equipaggiamenti)
+Patient:: Puoi spendere tanti turni a prepararti per un'azione, per ogni turno speso prendi un +1 quando fai l’azione.
+Pool:: Ingegneria x2 (sempre 2 volte, nel tuo caso)
 Power Slider:: bla bla bla 
 Reflexive:: blabla
 Resouceful:: Usi la più alta tra Scienza e Ingegneria (nel tuo caso Ing. 3) al posto di un’altra skill, per un’azione. Non ottieni il professional reroll, ma puoi usare la fortuna. Il Pool però è pari alla più bassa tra le due abilità, che nel tuo caso è Science, cioè zero (insomma, secondo me non la puoi usare ora, devi crescere un po’ anche in scienza).
+Sharpshooter:: Puoi rerollare i dadi per colpire la silhouette della nave, quando attacchi con un’arma della nave (cioè per ora il cannone). Pool: Combat x2 (per te sono 6 volte)
 Shock trooper:: Puoi andare in Overwatch per attaccare con un’azione gratis, alla fine del tuo movimento in una fase. Forse è da spiegare che qui puoi metterti in Overwatch dichiarando un’azione qualsiasi, non solo il solito “sparare” ma anche, che so, curare, far detonare una bomba, muoversi (ma solo di 1 passo… a proposito, vedo adesso che muoversi può essere scelto come azione, in pratica ci si può muovere 2 volte a turno, accidenti!). Con questa abilità puoi fare un’azione, poi muoverti, poi andare in overwatch per fare un attacco nel turno avversario. Pool: Combat (nel tuo caso lo puoi fare 3 volte).
+Sniper:: Puoi rerollare il tiro per sparare con la nave o con le armi personali ranged, se ti sei preparato prima. Pool: Combat x2 (sempre 6 volte)
 Speed Demon:: bla bla 
 Study:: +3 HP, cumulativo
 Tinkerer:: Puoi fare 2 upgrade a missione. Gli upgrade non li abbiamo cagati molto, ma permettono diverse cose, per esempio se upgradi il bot gli puoi montare un altro braccio...
 Turn Specialist:: bla bla 
-
 
 
 
