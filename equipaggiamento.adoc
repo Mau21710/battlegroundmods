@@ -1,0 +1,100 @@
+
+
+== Appunti 
+
+Ogni personaggio può fare una richiesta effettuando un tiro 2d6 aggiungendo il Rango (2). Si può rerollare il risultato con la Fortuna, e un personaggio può assistere un altro con un tiro difficoltà 8, ciò garantisce un +1 alla requisizione, ma il personaggio che assiste non può fare la sua requisizione.
+
+Oltre alla requisizione, potere acquistare qualsiasi oggetto pagandolo con i vostri crediti (225).
+Vi elenco quindi gli oggetti, indicando il tiro requisizione (r), il costo ($) e il peso (p). Anche in questo caso metto una breve descrizione ma chiedetemi i dettagli, che ce ne sono (metto un + per indicare che hanno effetti speciali).
+
+
+== Skills
+
+
+Agile:: +1 al tuo valore bersaglio, a meno che tu non sia svenuto
+Engine specialist:: Reroll per pompare o riparare motori. Pool: Ingegneria x2 (per te sono 6 reroll a missione)
+Fast healer:: Spiegazione non chiarissima, ma direi che quando vieni curato, recuperi il doppio
+Jack-o-t:: Scusa, qui mi sa che ho fatto confusione tra turn, round e phase… dunque: tu ottieni UN reroll professionale PER MISSIONE in ogni skill (incluso Atletica). Cioè, a parte la tua professione, puoi avere un reroll per una prova nelle altre skill (ma non uno a turno: uno in tutto)
+Jury rigger:: Fa tanto shadowrun, ah gli anni '90…. Puoi operare in un modulo danneggiato o slaggato. Se è slaggato, ogni occupante del modulo prende 1d6 danni e il modulo funziona a -3. Pool: Ingegneria x2 (sempre 6 usi)
+Lucky:: +3 Fortuna, cumulativo
+Lucky:: +3 di Fortuna, cumulabile se lo prendi più volte. Con quella che hai già, andresti a 10
+Missile Expert:: Puoi tentare di lanciare un secondo missile da un modulo usato facendo un Combat check a 14. Se fallisci, il missile esplode nel modulo (come se l’avessero colpito, quindi danni anche ai moduli adiacenti). Pool (cioè quante volte puoi farlo durante una missione): pari alla tua skill Ingegneria x2 (nel tuo caso 2 volte). Mi sembra un’abilità piuttosto rischiosa, magari prendi in considerazione piuttosto Multi-Barrel Expert che permette di sparare 2 volte in multi-barrel con una sola azione, e senza controindicazioni.
+Overloader:: Quando spari col cannone puoi contare anche il power degli scudi o del ponte per calcolare i danni (sono dadi danno in più), però causa un’esplosione nella tua postazione, ti fa 2d6 danno + 1d6 danni allo scafo, e con 4-5-6 prendi 1OOC e il modulo è danneggiato.
+Pack mule:: raddoppia il carry, nient’altro (ora tu porti 20, porteresti 40, se preferisci puoi decidere dopo aver preso gli equipaggiamenti)
+Patient:: Puoi spendere tanti turni a prepararti per un'azione, per ogni turno speso prendi un +1 quando fai l’azione.
+Pool:: Ingegneria x2 (sempre 2 volte, nel tuo caso)
+Power Slider:: bla bla bla 
+Reflexive:: blabla
+Resouceful:: Usi la più alta tra Scienza e Ingegneria (nel tuo caso Ing. 3) al posto di un’altra skill, per un’azione. Non ottieni il professional reroll, ma puoi usare la fortuna. Il Pool però è pari alla più bassa tra le due abilità, che nel tuo caso è Science, cioè zero (insomma, secondo me non la puoi usare ora, devi crescere un po’ anche in scienza).
+Sharpshooter:: Puoi rerollare i dadi per colpire la silhouette della nave, quando attacchi con un’arma della nave (cioè per ora il cannone). Pool: Combat x2 (per te sono 6 volte)
+Shock trooper:: Puoi andare in Overwatch per attaccare con un’azione gratis, alla fine del tuo movimento in una fase. Forse è da spiegare che qui puoi metterti in Overwatch dichiarando un’azione qualsiasi, non solo il solito “sparare” ma anche, che so, curare, far detonare una bomba, muoversi (ma solo di 1 passo… a proposito, vedo adesso che muoversi può essere scelto come azione, in pratica ci si può muovere 2 volte a turno, accidenti!). Con questa abilità puoi fare un’azione, poi muoverti, poi andare in overwatch per fare un attacco nel turno avversario. Pool: Combat (nel tuo caso lo puoi fare 3 volte).
+Sniper:: Puoi rerollare il tiro per sparare con la nave o con le armi personali ranged, se ti sei preparato prima. Pool: Combat x2 (sempre 6 volte)
+Speed Demon:: bla bla 
+Study:: +3 HP, cumulativo
+Tinkerer:: Puoi fare 2 upgrade a missione. Gli upgrade non li abbiamo cagati molto, ma permettono diverse cose, per esempio se upgradi il bot gli puoi montare un altro braccio...
+Turn Specialist:: bla bla 
+
+
+
+== Equipaggiamento
+
+=== Armi a distanza:
+
+. Blast Pistol r8 $250 p4 danni 2d6-2
+. Blast Rifle r10 $500 p8 danni 2d6-1 +
+. Disintegrator r10 $550 p9 disintegra il bersaglio
+. Emp Pistol r8 $600 p5 spegne gli apparecchi elettronici
+. Ion Bore r10 $450 p9 danni 1d6 cumulativi +
+. Laser Rifle r10 $300 p9 danni 1d6 +
+. Micro Blaster r8 $150 p1 danni 1d6 +
+. Needle Pistol r9 $300 p4 le armi needle sparano vari tipi di tossine
+. Needle Rifle r10 $400 p7 come sopra
+. Nerve Disruptor r9 $300 p5 danni 2d6-4 e fa cadere le cose di mano
+. Particle Rifle r12 $1000 p12 danni max 3d6 +
+. Plasma Projector r12 $1100 p20 danni 1d6 colpisce tutto ciò che attraversa e incendia
+. Rocket Pistol r13 $1200 p6 spara le granate (per le granate vedi sotto)
+. Stun Gun r8 $200 p3 stordisce
+ 
+=== Armi corpo a corpo:
+
+. Energy Blade r14 $1300 p8 danni 3d6-3 ma è difficile da usare
+. Knife r8 $5 p1 danni 1d6
+. Vibraknife r9 $250 p4 danni 1d6 ignora armature
+ 
+=== Granate:
+
+. EMP r8 $25 p2 spegne gli apparecchi elettronici
+. Energy r8 $25 p2 danni 2d6 - distanza
+. Fragmentation r8 $25 p2 danni 2d6 - distanza (armature contano doppio ma non risente degli attacchi EMP)
+. Stun r8 $25 p2 stordisce
+. Satchel Charge r11 $100 p5 è una carica esplosiva con detonatore, danni 2d6 più 1d6 allo scafo etc.
+ 
+=== Equipaggiamento:
+
+. Armatura r8 $200 p10 riduce 1 danno, possono portarla solo Xeloxiani e Umani (Franz e Mao)
+. EVA r8 $100 p5 è il sistema di sopravvivenza nel vuoto, dura 100 round
+. JetPack r13 $500 p4 permette di muoversi a razzo con check Pilotaggio 8
+. MediKit r8 $250 p5 guarisce 1d6 danni usando Science 8
+. Pack r6 $10 p2 è uno zaino, dimezza il peso degli oggetti portati, ma servono 2 azioni per estrarli
+. Shield r11 $200 p10 aggiunge 1 al tuo valore bersaglio
+. ToolKit r8 $100 p5 aggiunge +1 per riparare, upgradare, riconfigurare cannoni
+. WristComp r13 $1000 p1 computer da polso, aggiunge +1 a Scienza per hackerare, upgradare equipaggiamento etc.
+
+=== Droghe:
+
+. Tutte le droghe sono r8 $25 p1, puoi caricarle su un Needler (o credo iniettarle a mano). Tipicamente aumentano di 1 una Skill (o riducono di 1 i danni) diminuendo di 1 tutte le altre, in più c’è una droga che fa resistere agli stordimenti, una che stordisce, una che cancella gli effetti di tutte le droghe. L’effetto dura fino a fine missione.
+ 
+=== Cyberware (innesti cyborg):
+
+. Mentor Chip r12 $500 p1 aggiunge +10% esperienza
+. Skill Chip r13 $1000 p1 aggiunge +1 a una skill
+. Skeletal Enhancement r14 $1500 p0 dà +1 Atletica per trasportare e per attaccare in corpo a corpo
+. Cyberfoot r15 $2000 p6 aggiunge +6 al movimento
+. Cyberhand r16 $2500 p4 aggiunge 1 mano
+ 
+=== New Ship Module r13 $3000
+
+Questo serve per ottenere un nuovo modulo della nave. Puoi lasciarlo allo spazioporto o sostituirlo a uno della nave se ti serve per la missione. Quando hai 3 moduli da parte, puoi richiedere uno scafo più grande gratis.
+
+Volendo, puoi anche chiedere una nave della stessa stazza ma di una razza diversa, con un tiro requisizione 13.
+

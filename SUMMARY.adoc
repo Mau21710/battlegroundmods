@@ -2,4 +2,6 @@
 
 = Summary
 
-. link:battlegrounds.adoc[Spunti]
+. link:battlegrounds.adoc[Appunti]
+. link:skills.adoc[Skills]
+. link:equipaggiamento.adoc[Equipaggiamento]
