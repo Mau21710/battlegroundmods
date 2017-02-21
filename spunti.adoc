@@ -1,0 +1,69 @@
+
+
+== Appunti 
+
+Ogni personaggio può fare una richiesta effettuando un tiro 2d6 aggiungendo il Rango (2). Si può rerollare il risultato con la Fortuna, e un personaggio può assistere un altro con un tiro difficoltà 8, ciò garantisce un +1 alla requisizione, ma il personaggio che assiste non può fare la sua requisizione.
+
+Oltre alla requisizione, potere acquistare qualsiasi oggetto pagandolo con i vostri crediti (225).
+Vi elenco quindi gli oggetti, indicando il tiro requisizione (r), il costo ($) e il peso (p). Anche in questo caso metto una breve descrizione ma chiedetemi i dettagli, che ce ne sono (metto un + per indicare che hanno effetti speciali).
+
+=== Armi a distanza:
+
+. Blast Pistol r8 $250 p4 danni 2d6-2
+. Blast Rifle r10 $500 p8 danni 2d6-1 +
+. Disintegrator r10 $550 p9 disintegra il bersaglio
+. Emp Pistol r8 $600 p5 spegne gli apparecchi elettronici
+. Ion Bore r10 $450 p9 danni 1d6 cumulativi +
+. Laser Rifle r10 $300 p9 danni 1d6 +
+. Micro Blaster r8 $150 p1 danni 1d6 +
+. Needle Pistol r9 $300 p4 le armi needle sparano vari tipi di tossine
+. Needle Rifle r10 $400 p7 come sopra
+. Nerve Disruptor r9 $300 p5 danni 2d6-4 e fa cadere le cose di mano
+. Particle Rifle r12 $1000 p12 danni max 3d6 +
+. Plasma Projector r12 $1100 p20 danni 1d6 colpisce tutto ciò che attraversa e incendia
+. Rocket Pistol r13 $1200 p6 spara le granate (per le granate vedi sotto)
+. Stun Gun r8 $200 p3 stordisce
+ 
+=== Armi corpo a corpo:
+
+. Energy Blade r14 $1300 p8 danni 3d6-3 ma è difficile da usare
+. Knife r8 $5 p1 danni 1d6
+. Vibraknife r9 $250 p4 danni 1d6 ignora armature
+ 
+=== Granate:
+
+. EMP r8 $25 p2 spegne gli apparecchi elettronici
+. Energy r8 $25 p2 danni 2d6 - distanza
+. Fragmentation r8 $25 p2 danni 2d6 - distanza (armature contano doppio ma non risente degli attacchi EMP)
+. Stun r8 $25 p2 stordisce
+. Satchel Charge r11 $100 p5 è una carica esplosiva con detonatore, danni 2d6 più 1d6 allo scafo etc.
+ 
+=== Equipaggiamento:
+
+. Armatura r8 $200 p10 riduce 1 danno, possono portarla solo Xeloxiani e Umani (Franz e Mao)
+. EVA r8 $100 p5 è il sistema di sopravvivenza nel vuoto, dura 100 round
+. JetPack r13 $500 p4 permette di muoversi a razzo con check Pilotaggio 8
+. MediKit r8 $250 p5 guarisce 1d6 danni usando Science 8
+. Pack r6 $10 p2 è uno zaino, dimezza il peso degli oggetti portati, ma servono 2 azioni per estrarli
+. Shield r11 $200 p10 aggiunge 1 al tuo valore bersaglio
+. ToolKit r8 $100 p5 aggiunge +1 per riparare, upgradare, riconfigurare cannoni
+. WristComp r13 $1000 p1 computer da polso, aggiunge +1 a Scienza per hackerare, upgradare equipaggiamento etc.
+
+=== Droghe:
+
+. Tutte le droghe sono r8 $25 p1, puoi caricarle su un Needler (o credo iniettarle a mano). Tipicamente aumentano di 1 una Skill (o riducono di 1 i danni) diminuendo di 1 tutte le altre, in più c’è una droga che fa resistere agli stordimenti, una che stordisce, una che cancella gli effetti di tutte le droghe. L’effetto dura fino a fine missione.
+ 
+=== Cyberware (innesti cyborg):
+
+. Mentor Chip r12 $500 p1 aggiunge +10% esperienza
+. Skill Chip r13 $1000 p1 aggiunge +1 a una skill
+. Skeletal Enhancement r14 $1500 p0 dà +1 Atletica per trasportare e per attaccare in corpo a corpo
+. Cyberfoot r15 $2000 p6 aggiunge +6 al movimento
+. Cyberhand r16 $2500 p4 aggiunge 1 mano
+ 
+=== New Ship Module r13 $3000
+
+Questo serve per ottenere un nuovo modulo della nave. Puoi lasciarlo allo spazioporto o sostituirlo a uno della nave se ti serve per la missione. Quando hai 3 moduli da parte, puoi richiedere uno scafo più grande gratis.
+
+Volendo, puoi anche chiedere una nave della stessa stazza ma di una razza diversa, con un tiro requisizione 13.
+
