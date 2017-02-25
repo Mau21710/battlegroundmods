@@ -5,7 +5,7 @@ Battle Frenzied:: ottieni azioni di attacco gratuite
 Boarding Combat Trained:: puoi danneggiare più facilmente i moduli delle navi (sabotatore)
 Bot Specialist:: puoi upgradare i Bot più volte e ripararli
 Braced:: come se avessi sempre le cinture di sicurezza (ritiri quando subisci danni per colpi alla nave)
-Brutal (Marco ce l’ha):: ritiri i danni che fai in combattimento personale
+Brutal (Marco ce l’ha):: ritiri i danni che fai in combattimento personale. Rerolli solo 1 dado.
 Cautious:: ritiri gli attacchi nemici quando fai Peek o Pop (quelle 2 azioni tipo sbirciare)
 Charger:: puoi fare un attacco corpo a corpo gratis dopo il movimento
 Connected:: hai una requisizione in più, col reroll, e raddoppi i soldi che guadagni
